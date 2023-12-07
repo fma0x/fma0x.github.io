@@ -2,13 +2,15 @@ baseURL = 'https://fma0x.github.io/'
 languageCode = 'pt-BR'
 title = 'fma0x'
 theme = "PaperMod"
+
 [Params]
-    mainSections = ["post"]
-    intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/fma0x"
-    twitter = "https://twitter.com/fma0x/"
-    email = "XXX@example.com"
-    opengraph = true
-    shareTwitter = true
+  [profileMode]
+    enabled = true
+    title = "PaperMod"
+  [homeInfoParams]
+    Title = "oi"
+    Content = "uiu uiui"
+
+[Author]
+name = "Paulo Giovani"
+github = "fma0x"
