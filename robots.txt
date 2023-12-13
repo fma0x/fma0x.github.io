@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fma0x.github.io/sitemap.xml
